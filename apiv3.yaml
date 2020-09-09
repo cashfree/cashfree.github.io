@@ -462,8 +462,9 @@ externalDocs:
 
   
 servers:
-  - url: https://test.cahsfree.com/api/v2.1
-  - url: https://api.cahsfree.com/v2.1
+  - url: https://test-k8s.cashfree.com/pgnextgenapi/api/v1
+  - url: https://payments.cashfree.com/pgnextgenapi/api/v1
+  - url: https://prod.cashfree.com/pgnextgenapi-test/api/v1
 
 
   
